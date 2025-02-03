@@ -1,0 +1,2 @@
+1. Añadir al main la notacion @EnableConfigServer
+2. Revisar el aplication properties y ver las configuraciones que se hacen
